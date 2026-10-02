@@ -1,0 +1,7 @@
+dataset,record_id,field,regex_value,ai_value
+samples,S0003,dob,2053-11-24,1953-11-24
+samples,S0011,dob,2061-07-09,1961-07-09
+samples,S0014,dob,2058-09-12,1958-09-12
+samples,S0025,dob,2065-11-19,1965-11-19
+samples,S0026,dob,2053-06-22,1953-06-22
+samples,S0043,dob,2051-02-19,1951-02-19

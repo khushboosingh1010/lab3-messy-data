@@ -1,0 +1,44 @@
+{
+  "samples": {
+    "records": 60,
+    "fields_compared": [
+      "patient_name",
+      "dob",
+      "sex",
+      "enrollment_site",
+      "glucose_mg_dl",
+      "notes"
+    ],
+    "cells_compared": 360,
+    "matching_cells": 354,
+    "differences_by_field": {
+      "patient_name": 0,
+      "dob": 6,
+      "sex": 0,
+      "enrollment_site": 0,
+      "glucose_mg_dl": 0,
+      "notes": 0
+    }
+  },
+  "sequences": {
+    "records": 8,
+    "fields_compared": [
+      "organism",
+      "gene",
+      "declared_length",
+      "actual_length",
+      "note",
+      "sequence"
+    ],
+    "cells_compared": 48,
+    "matching_cells": 48,
+    "differences_by_field": {
+      "organism": 0,
+      "gene": 0,
+      "declared_length": 0,
+      "actual_length": 0,
+      "note": 0,
+      "sequence": 0
+    }
+  }
+}
